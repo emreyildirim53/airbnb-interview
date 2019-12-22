@@ -1,2 +1,2 @@
 
-  reverseText('hello world!') => '!dlrow olleh'
+ > reverseText('hello world!') => '!dlrow olleh'
